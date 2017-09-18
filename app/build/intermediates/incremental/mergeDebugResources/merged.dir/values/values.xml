@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_bg_en">#7EA43C</color>
+    <color name="btn_bg_pressed">#A82E26</color>
+    <color name="btn_bg_unen">#484848</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="btn_row" type="id"/>
+    <item name="calories" type="id"/>
+    <item name="date" type="id"/>
+    <item name="distance" type="id"/>
+    <item name="high" type="id"/>
+    <item name="iv_1" type="id"/>
+    <item name="iv_10" type="id"/>
+    <item name="iv_2" type="id"/>
+    <item name="iv_3" type="id"/>
+    <item name="iv_4" type="id"/>
+    <item name="iv_5" type="id"/>
+    <item name="iv_6" type="id"/>
+    <item name="iv_7" type="id"/>
+    <item name="iv_8" type="id"/>
+    <item name="iv_9" type="id"/>
+    <item name="iv_index" type="id"/>
+    <item name="low" type="id"/>
+    <item name="save" type="id"/>
+    <item name="send" type="id"/>
+    <item name="sensitivity" type="id"/>
+    <item name="sensitivity_value" type="id"/>
+    <item name="show_daily" type="id"/>
+    <item name="show_step" type="id"/>
+    <item name="show_step_row" type="id"/>
+    <item name="start" type="id"/>
+    <item name="step" type="id"/>
+    <item name="step_lenth" type="id"/>
+    <item name="step_lenth_value" type="id"/>
+    <item name="stop" type="id"/>
+    <item name="timer" type="id"/>
+    <item name="velocity" type="id"/>
+    <item name="week_day" type="id"/>
+    <item name="weight" type="id"/>
+    <item name="weight_value" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Fitness helper</string>
+    <string name="calorie">Calories</string>
+    <string name="calories">Calories</string>
+    <string name="calories_zero">0.0</string>
+    <string name="cancel">Clear</string>
+    <string name="cancle">Cancel</string>
+    <string name="cm">cm</string>
+    <string name="daily">Daily accumulated</string>
+    <string name="day">Day</string>
+    <string name="distance">Total traveled</string>
+    <string name="double_zero">0.0</string>
+    <string name="friday">Friday</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="high">high</string>
+    <string name="image_star">image_star</string>
+    <string name="information">Information</string>
+    <string name="kg">KG</string>
+    <string name="kilometer_per_hour">m/s</string>
+    <string name="km">m</string>
+    <string name="low">low</string>
+    <string name="menu_settings">Settings</string>
+    <string name="monday">Monday</string>
+    <string name="month">Month</string>
+    <string name="pause">Pause</string>
+    <string name="saturday">Saturday</string>
+    <string name="save">Save</string>
+    <string name="sensitivity">Sensitivity:</string>
+    <string name="sensitivity_info">Higher sensitivity, higher activity the sensor.</string>
+    <string name="setp_length_info_1">Give the step length to calculate the total length and velocity</string>
+    <string name="setp_length_info_2">Data are not accurate</string>
+    <string name="settings_title">Settings</string>
+    <string name="start">Start</string>
+    <string name="step_length">Step length</string>
+    <string name="step_number">Steps</string>
+    <string name="sunday">Sunday</string>
+    <string name="thursday">Thursday</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="todo">TODO</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="use_time">Time used</string>
+    <string name="velocity">Velocity</string>
+    <string name="velocity_zero">0.0</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="weight_info">Give the weight to calculate calories used</string>
+    <string name="weigth">Weight</string>
+    <string name="zero">0</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="small_text_style" parent="android:Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingRight">2dip</item>
+    </style>
+</resources>

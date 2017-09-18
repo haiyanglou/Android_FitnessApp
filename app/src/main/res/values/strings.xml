@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness helper</string>
+    <string name="menu_settings">Settings</string>
+    <string name="step_number">Steps</string>
+    <string name="use_time">Time used</string>
+    <string name="distance">Total traveled</string>
+    <string name="calories">Calories</string>
+    <string name="velocity">Velocity</string>
+    <string name="zero">0</string>
+    <string name="double_zero">0.0</string>
+    <string name="calories_zero">0.0</string>
+    <string name="velocity_zero">0.0</string>
+    <string name="km">m</string>
+    <string name="calorie">Calories</string>
+    <string name="kilometer_per_hour">m/s</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Clear</string>
+    <string name="daily">Daily accumulated</string>
+    <string name="image_star">image_star</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="todo">TODO</string>
+    <string name="information">Information</string>
+    <string name="settings_title">Settings</string>
+    <string name="sensitivity">Sensitivity:</string>
+    <string name="low">low</string>
+    <string name="high">high</string>
+    <string name="sensitivity_info">Higher sensitivity, higher activity the sensor.</string>
+    <string name="step_length">Step length</string>
+    <string name="cm">cm</string>
+    <string name="setp_length_info_1">Give the step length to calculate the total length and velocity</string>
+    <string name="setp_length_info_2">Data are not accurate</string>
+    <string name="weigth">Weight</string>
+    <string name="kg">KG</string>
+    <string name="weight_info">Give the weight to calculate calories used</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancel</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

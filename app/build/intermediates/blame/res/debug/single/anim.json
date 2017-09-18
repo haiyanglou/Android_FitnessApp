@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_splash.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\anim\\animation_splash.xml"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\anim\\fade_out.xml"
+    }
+]

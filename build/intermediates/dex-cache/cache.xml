@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a381556fb39f7be7fc507d24754afbf75d56347c">
+        <dex dex="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_267b5829446b429fd4d36ef219179c6f2ea504e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="258b19a32f7db3c56fdf810b1676b3bd4310ab4d">
+        <dex dex="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b89d86a9d00dc7258af77412ff9f0404619c5ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YangS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_9850e8886a31c55d5f78edc8f79ec4e2b6f317ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Study\Android Studio\StepCounter-master3\app\libs\GifView.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a518235931001b94e87540c99bd13258f614622">
+        <dex dex="E:\Study\Android Studio\StepCounter-master3\app\build\intermediates\transforms\dex\debug\folders\1000\2\GifView_7b0a92cff6ed93e74f676b48b26a43c3e44f5c5c\classes.dex" />
+    </item>
+
+</items>

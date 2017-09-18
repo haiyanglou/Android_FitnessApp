@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_step.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\menu\\activity_step.xml"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\menu\\start.xml"
+    }
+]

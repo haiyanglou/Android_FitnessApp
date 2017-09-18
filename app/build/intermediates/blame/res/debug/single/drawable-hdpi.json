@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading.png",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_disable.png",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\drawable-hdpi\\start_disable.png"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_enable.png",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\drawable-hdpi\\star_enable.png"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index.png",
+        "source": "E:\\Study\\Android Studio\\StepCounter-master3\\app\\src\\main\\res\\drawable-hdpi\\index.png"
+    }
+]

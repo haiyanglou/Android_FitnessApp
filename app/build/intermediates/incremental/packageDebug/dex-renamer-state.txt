@@ -1,0 +1,7 @@
+#Mon Nov 28 21:31:49 CST 2016
+base.0=E\:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_267b5829446b429fd4d36ef219179c6f2ea504e0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b89d86a9d00dc7258af77412ff9f0404619c5ce1\\classes.dex
+base.1=E\:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b89d86a9d00dc7258af77412ff9f0404619c5ce1
+file.0=E\:\\Study\\Android Studio\\StepCounter-master3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_267b5829446b429fd4d36ef219179c6f2ea504e0\\classes.dex
